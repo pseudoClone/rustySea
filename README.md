@@ -1,2 +1,3 @@
 # rustySea
-Guide to using Rust the rust way
+---
+If this repo is public, do not make PR or create issues.
