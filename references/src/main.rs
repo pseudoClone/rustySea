@@ -3,8 +3,6 @@ fn main() {
     let len = calculate_size(&s1);
     println!("The length of {} is {}.", s1, len);
 
-
-
     let mut s2 = String::from("Hello");
     change(&mut s2);
 }
